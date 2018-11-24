@@ -1,0 +1,23 @@
+{
+  "name": "mm_event_calendar",
+  "version": "1.0.0",
+  "description": "Monthly event calendar using .ical for Magic Mirror (https://github.com/MichMich/MagicMirror)",
+  "main": "mm_event_calendar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cashewshideout/mm_event_calendar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cashewshideout/mm_event_calendar/issues"
+  },
+  "homepage": "https://github.com/cashewshideout/mm_event_calendar#readme",
+  "dependencies": {
+    "googleapis": "^27.0.0",
+    "node-google-calendar": "^1.1.1"
+  }
+}
